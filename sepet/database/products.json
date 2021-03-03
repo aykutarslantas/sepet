@@ -1,0 +1,109 @@
+[{
+  "uid": 0,
+  "category": "Book",
+  "title": "Gençlik İksiri Stephan Walking",
+  "features": "1000 sayfalık harika kitap",
+  "price": "10.55",
+  "stock": 66,
+  "currency": "try"
+},
+  {
+    "uid": 1,
+    "category": "Home",
+    "title": "Dezenfektan",
+    "features": "%80 Alchol, ",
+    "price": "22.00",
+    "stock": 3,
+    "currency": "try"
+  },
+  {
+    "uid": 2,
+    "category": "Cosmetic",
+    "title": "Perfume",
+    "features": "A great perfume",
+    "price": "99.99",
+    "stock": 55,
+    "currency": "try"
+  },
+  {
+    "uid": 3,
+    "category": "Smart Phone",
+    "title": "Apricot 13",
+    "features": "Apricot 13 in stock now",
+    "price": "999.99",
+    "stock": 1,
+    "currency": "try"
+  },
+  {
+    "uid": 4,
+    "category": "Shoes",
+    "title": "Zalenciaga",
+    "features": "Those who use it prefer the word expensive instead of comfortable. <br>You need this.",
+    "price": "1455.20",
+    "stock": 33,
+    "currency": "try"
+  },
+  {
+    "uid": 5,
+    "category": "Food",
+    "title": "Lokum",
+    "features": "Enfes bir Türk lokumu, yemeyen bin pişman. A great Turkish Delight",
+    "price": "2.5",
+    "stock": 22,
+    "currency": "try"
+  },
+  {
+  "uid": 6,
+  "category": "Book",
+  "title": "Sefiller",
+  "features": "1231 sayfalık harika kitap",
+  "price": "55.55",
+  "stock": 66,
+  "currency": "try"
+},
+  {
+    "uid": 7,
+    "category": "Home",
+    "title": "Kolonya",
+    "features": "%70 Alchol, ",
+    "price": "12.00",
+    "stock": 3,
+    "currency": "try"
+  },
+  {
+    "uid": 8,
+    "category": "Cosmetic",
+    "title": "Lipstick",
+    "features": "A great lipstick",
+    "price": "55.99",
+    "stock": 12,
+    "currency": "try"
+  },
+  {
+    "uid": 9,
+    "category": "Smart Phone",
+    "title": "Zaymung S44",
+    "features": "Zaymung S44 in stock now",
+    "price": "111.99",
+    "stock": 1,
+    "currency": "try"
+  },
+  {
+    "uid": 10,
+    "category": "Shoes",
+    "title": "Jike",
+    "features": "Good and better good",
+    "price": "200.20",
+    "stock": 33,
+    "currency": "try"
+  },
+  {
+    "uid": 5,
+    "category": "Food",
+    "title": "Candy",
+    "features": "Candy candy",
+    "price": "1.5",
+    "stock": 12,
+    "currency": "try"
+  }
+]
